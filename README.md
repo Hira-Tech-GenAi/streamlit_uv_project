@@ -24,14 +24,10 @@ Welcome to **Data Sweeper**, a powerful Streamlit-based web app that helps you m
 
 To run this project locally, follow these steps:
 
-### **1️⃣ Clone the Repository**
+### ** Clone the Repository**
 
-```sh
-git clone https://github.com/YourUsername/streamlit_project_uv.git
-cd streamlit_project_uv
-```
 
-### **2️⃣ Create Virtual Environment (Recommended)**
+### **1️⃣ Create Virtual Environment (Recommended)**
 
 ```sh
 python -m venv .venv
@@ -39,7 +35,7 @@ source .venv/bin/activate  # Mac/Linux
 .venv\Scripts\activate     # Windows
 ```
 
-### **3️⃣ Install Dependencies**
+### **2️⃣ Install Dependencies**
 
 ```sh
 pip install -r requirements.txt

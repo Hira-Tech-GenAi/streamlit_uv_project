@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ### **Run Streamlit App**
 
 ```sh
-streamlit run src/streamlit_project_uv/main.py
+streamlit run src/streamlit_project_uv/app.py
 ```
 
 Once running, open [http://localhost:8501](http://localhost:8501) in your browser.

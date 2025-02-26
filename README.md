@@ -55,22 +55,6 @@ Once running, open [http://localhost:8501](http://localhost:8501) in your browse
 
 ---
 
-## 🚀 Deployment
-
-### **Deploy on Vercel**
-
-To deploy on **Vercel**, follow these steps:
-
-1. Push your project to **GitHub**.
-2. Go to [Vercel](https://vercel.com/) and create a new project.
-3. Connect your **GitHub repository**.
-4. Configure:
-   - **Root Directory:** `src/streamlit_project_uv`
-   - **Build Command:** (Leave empty)
-   - **Output Directory:** (Leave empty)
-5. Click **Deploy** and get your live app URL!
-
----
 
 ## 👩‍💻 Author
 
